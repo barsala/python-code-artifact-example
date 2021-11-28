@@ -1,4 +1,4 @@
-from rare.tools import is_palindrome
+from barsala_example.tools import is_palindrome
 
 
 def test_is_palindrome():
